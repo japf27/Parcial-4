@@ -1,0 +1,16 @@
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.MDIParent1.resources
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Doctores.resources
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Empleados.resources
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Enfermos.resources
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Plantilla.resources
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Departamento.resources
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Hospital.resources
+C:\Users\Lab3\Desktop\Parcial\Parcial4\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Sala.resources
